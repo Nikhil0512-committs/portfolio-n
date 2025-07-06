@@ -18,7 +18,7 @@ const About = () => {
                     I am a 
                 </span>
                 <Typewriter
-                   words={[' Frontend Developer',' UI/UX Designer', ' Coder']}
+                   words={[' Frontend Developer','Backend Developer', 'UI/UX Designer', ' Coder']}
                    cursor
                    loop={0}
                    cursorStyle="_"
