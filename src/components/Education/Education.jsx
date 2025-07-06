@@ -1,5 +1,5 @@
 import React from 'react'
-import { education } from '../../constants'
+import { education } from '../../Constants'
 const Education = () => {
   return (
    <section

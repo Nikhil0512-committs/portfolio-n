@@ -1,5 +1,5 @@
 import React from 'react'
-import { experiences } from "../../constants";
+import { experiences } from "../../Constants";
 const Experience = () => {
   return (
     <section
