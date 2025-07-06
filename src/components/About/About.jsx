@@ -1,6 +1,6 @@
 import React from 'react'
-import ReactTypingEffect from 'react-typing-effect'
-import {Typewriter} from 'react-simple-Typewriter'
+
+import {Typewriter} from 'react-simple-typewriter'
 import profileImage from '../../assets/Nikhil.jpeg'
 import Tilt from 'react-parallax-tilt';
 const About = () => {
